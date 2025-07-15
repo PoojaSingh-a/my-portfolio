@@ -1,5 +1,5 @@
 import BVPortal from '../assets/BV_Portal.png';
-import InvoicingSystem from '../assets/InvoicingSystem.jpg';
+import InvoicingSystem from '../assets/InvoicingSystem.JPG';
 import GreenSpark from '../assets/GreenSpark.jpg';
 
 const Projects = () => {
